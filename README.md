@@ -1,8 +1,3 @@
-Para o GitHub, o segredo é usar a linguagem Markdown da forma correta para que o texto fique escaneável, com blocos de código destacados e uma estrutura profissional que mostre que você não é apenas um estudante, mas um profissional de segurança em formação.
-
-Aqui está o código Markdown pronto. Você pode copiar o conteúdo abaixo e colar diretamente no seu arquivo README.md:
-
-Markdown
 # 🛡️ Cybersecurity Lab: Simulação de Malware e Estratégias de Defesa
 
 Este repositório contém o projeto prático desenvolvido durante meu bootcamp de Cibersegurança. O objetivo principal é a exploração educacional do funcionamento interno de ameaças digitais modernas, utilizando a linguagem **Python** para simular comportamentos de Ransomware e Keylogger em ambientes controlados.
